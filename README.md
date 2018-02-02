@@ -96,15 +96,14 @@ Para hacer uso de este carrusel solo debes agrgar a tu html:
 Los estilos de este carrusel no pueden ser modificados, pero puedes agregar el texto que quieras dentro del div con clases text.
 
 
-
 La ruta de los script puede diferir dependiendo de donde se encuentre la carpeta dist, pero dentro de ella siempre estaran los archivos js necesarios para el funcionamiento de los carruseles, por lo que puedes ajustar la ruta según tus necesidades.
+
 
 
 
 Demo:
 --------------------------
 [Libreria Jquery](https://nadiaqn.github.io/libreria-carrusel/)
-
 
 
 
