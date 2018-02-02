@@ -64,13 +64,15 @@ IconsNavegationColor: se refiere al color que tendrán los iconos al mostrar una
 Ten cuidado de agregar a tu css estas clases en el orden que se indica para que los colores se muestren correctamente.
 
 
+Carrusel Con Texto
+------------------
 
 
-Demos:
+
+
+Demo:
 --------------------------
- [Carrusel Automatico](carusel-automatico.html)
-
- [Carrusel con Iconos de Navegación](indexCarruselNavegation.html)
+[Libreria Jquery]()
 
 
 

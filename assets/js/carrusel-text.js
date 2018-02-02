@@ -1,9 +1,9 @@
-$(document).ready(function() {
+var $ = require('jquery');
 
-	
+$(document).ready(function() {
+    
   var pos = 0;
   carouselText3();
-
     function carouselText3() {
        let carouselText = $('.carousel');
        for ( var i = 0; i < carouselText.length; i++) {
@@ -18,7 +18,6 @@ $(document).ready(function() {
         setTimeout(carouselText3,3000);  
       }
 });
-
 
 
 
