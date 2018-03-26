@@ -12,10 +12,12 @@
 
 Muchas veces queremos agregar carruseles de imagenes a nuestra pagina web, sin embargo, crearlos desde 0 toma demasiado tiempo y se deben tener conocimientos de css y javascript. Existen frameworks como bootstrap y materialize, que incluyen sus propios carruseles, pero aún así necesitamos más opciones. Es por ello que hemos creado esta librería con diferentes opciones de carruseles para que puedas elegir, el que mejor se adapta a tu pagina web.
 
+<img src='https://user-images.githubusercontent.com/32299783/37909852-7068b876-30e2-11e8-88b6-378d76ee1a4c.jpg'>
+
+## Proyecto desarrollado en [Laboratoria](http://www.laboratoria.la/)
 
 ## [Demo Libreria Jquery](https://nadiaqn.github.io/libreria-carrusel/)
 
-<img src='https://user-images.githubusercontent.com/32299783/37909852-7068b876-30e2-11e8-88b6-378d76ee1a4c.jpg'>
 
 ## Instrucciones de uso
 
