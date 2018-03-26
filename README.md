@@ -15,7 +15,7 @@ Muchas veces queremos agregar carruseles de imagenes a nuestra pagina web, sin e
 
 ## [Demo Libreria Jquery](https://nadiaqn.github.io/libreria-carrusel/)
 
-<img src='vista-previa.jpg'>
+<img src='https://user-images.githubusercontent.com/32299783/37909852-7068b876-30e2-11e8-88b6-378d76ee1a4c.jpg'>
 
 ## Instrucciones de uso
 
